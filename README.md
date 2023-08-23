@@ -7,5 +7,5 @@ This is a custom made weather app. It primarily gives the weather conditions of 
 ## BackEnd
 * Javascript
 # Deployment 
-* https://saivarun1410.github.io/WeatherPoint/
+* https://shahweather.netlify.app/
 
